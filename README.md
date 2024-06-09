@@ -2,7 +2,7 @@
 ## https://drive.google.com/file/d/1KfDsOLNAuePpHlC1XN0Z5CIrPupc5j1U/view?usp=drive_link
 
 # Project Video:
-## Video
+## [Video](https://drive.google.com/file/d/1h2bwjqUbjMZqlqmzzgZCDZLb_INw5pBk/view?usp=drive_link)
 
 # Snapshots:
 ### Dashboard:
