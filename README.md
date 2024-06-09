@@ -4,7 +4,7 @@
 # Project Video:
 ## Video
 
-## Snapshots:
+# Snapshots:
 ### Dashboard:
 ![image](https://github.com/Lavanyalakhiani/Business-Administration-Panel/assets/124029579/de4b84c0-7327-44b9-840e-472c643d742c)
 
