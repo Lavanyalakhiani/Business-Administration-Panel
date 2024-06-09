@@ -1,6 +1,22 @@
 # Project Report:
 ## https://drive.google.com/file/d/1KfDsOLNAuePpHlC1XN0Z5CIrPupc5j1U/view?usp=drive_link
 
+# Project Video:
+## Video
+
+## Snapshots:
+### Dashboard:
+![image](https://github.com/Lavanyalakhiani/Business-Administration-Panel/assets/124029579/de4b84c0-7327-44b9-840e-472c643d742c)
+
+### Calender:
+![image](https://github.com/Lavanyalakhiani/Business-Administration-Panel/assets/124029579/114808a7-5247-4fac-a2e9-21a430c225bd)
+
+### Trello Board:
+![image](https://github.com/Lavanyalakhiani/Business-Administration-Panel/assets/124029579/1d7d65f3-7360-450f-af52-8e934d03d2dd)
+
+### User's Database:
+![image](https://github.com/Lavanyalakhiani/Business-Administration-Panel/assets/124029579/0a4335d0-25d5-453b-bf70-26448930931f)
+
 
 
 <<<<<<< HEAD
